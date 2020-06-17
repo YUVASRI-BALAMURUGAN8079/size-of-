@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 	char a;
-	int num=1;
-	float dec=1.3;
-	double number=12345;
+	int num;
+	float dec;
+	double number;
 	cout<<"Size of char : "<<sizeof(a)<<" byte "<<endl;
 	cout<<"Size of int : "<<sizeof(num)<<" bytes "<<endl;
 	cout<<"Size of float : "<<sizeof(dec)<<" bytes "<<endl;
